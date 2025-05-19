@@ -5,7 +5,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
-class Program
+class Program :K 
 {
     List<string[]> FileLines = new List<string[]>();
     List<int> months = new List<int>();
